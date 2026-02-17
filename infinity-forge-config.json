@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-nexus",
+  "title": "Infinity Nexus",
+  "emoji": "\ud83c\udf00",
+  "purpose": "Where different research arcs cross. Cross-pollination here \u2014 new discoveries from intersections.",
+  "tools": [
+    "Nexus Map",
+    "Intersection Finder",
+    "Cross-Pollinator",
+    "Discovery Feed"
+  ],
+  "color": "#009688",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
